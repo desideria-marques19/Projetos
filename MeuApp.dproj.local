@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/03 15:34:45.000.612,=C:\Users\Wagner\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 16:38:39.000.329,=C:\Users\Wagner\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 16:39:54.000.400,F:\Projetos\MenusApp\uPrincipal.dfm=C:\Users\Wagner\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/05/07 16:39:54.000.400,F:\Projetos\MenusApp\uPrincipal.pas=C:\Users\Wagner\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 16:40:02.000.034,F:\Projetos\MenusApp\MeuApp.dproj=C:\Users\Wagner\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/05/07 16:48:02.000.911,=F:\Projetos\MenusApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 16:48:53.000.232,F:\Projetos\MenusApp\uCalendario.dfm=F:\Projetos\MenusApp\Unit1.dfm</Transaction>
+    <Transaction>2019/05/07 16:48:53.000.232,F:\Projetos\MenusApp\uCalendario.pas=F:\Projetos\MenusApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 17:05:38.000.146,=F:\Projetos\MenusApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 17:06:53.000.053,F:\Projetos\MenusApp\Unit1.dfm=F:\Projetos\MenusApp\uTabuadas.dfm</Transaction>
+    <Transaction>2019/05/07 17:06:53.000.053,F:\Projetos\MenusApp\Unit1.pas=F:\Projetos\MenusApp\uTabuadas.pas</Transaction>
+    <Transaction>2019/05/07 17:54:19.000.224,=F:\Projetos\MenusApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 17:54:58.000.538,F:\Projetos\MenusApp\Unit1.dfm=F:\Projetos\MenusApp\uTriangulo.dfm</Transaction>
+    <Transaction>2019/05/07 17:54:58.000.538,F:\Projetos\MenusApp\Unit1.pas=F:\Projetos\MenusApp\uTriangulo.pas</Transaction>
+    <Transaction>2019/05/13 20:32:49.000.365,=F:\Projetos\FigurasGeométricas\untCirculo.pas</Transaction>
+    <Transaction>2019/05/13 20:33:49.000.830,F:\Projetos\FigurasGeométricas\untCirculo.pas=</Transaction>
+    <Transaction>2019/05/14 13:02:46.000.633,=F:\Projetos\MeuApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/14 13:03:50.000.189,F:\Projetos\MeuApp\uSplash.dfm=F:\Projetos\MeuApp\Unit1.dfm</Transaction>
+    <Transaction>2019/05/14 13:03:50.000.189,F:\Projetos\MeuApp\uSplash.pas=F:\Projetos\MeuApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/14 17:01:39.000.923,=F:\Projetos\MeuApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/14 17:01:51.000.987,F:\Projetos\MeuApp\Unit1.dfm=F:\Projetos\MeuApp\uBancoDados.dfm</Transaction>
+    <Transaction>2019/05/14 17:01:51.000.987,F:\Projetos\MeuApp\Unit1.pas=F:\Projetos\MeuApp\uBancoDados.pas</Transaction>
+    <Transaction>2019/05/24 02:06:02.000.076,=F:\Projetos\MeuApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/24 02:07:15.000.791,F:\Projetos\MeuApp\Unit1.pas=F:\Projetos\MeuApp\uCadastroClientes.pas</Transaction>
+    <Transaction>2019/05/24 02:07:15.000.791,F:\Projetos\MeuApp\Unit1.dfm=F:\Projetos\MeuApp\uCadastroClientes.dfm</Transaction>
+    <Transaction>2019/05/25 13:12:13.000.695,=F:\Projetos\MeuApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/25 13:13:47.000.774,F:\Projetos\MeuApp\Unit1.pas=F:\Projetos\MeuApp\uCadastroProdutos.pas</Transaction>
+    <Transaction>2019/05/25 13:13:47.000.774,F:\Projetos\MeuApp\Unit1.dfm=F:\Projetos\MeuApp\uCadastroProdutos.dfm</Transaction>
+    <Transaction>2019/05/25 13:45:59.000.591,=F:\Projetos\MeuApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/25 13:46:40.000.260,F:\Projetos\MeuApp\Unit1.pas=F:\Projetos\MeuApp\uPedidos.pas</Transaction>
+    <Transaction>2019/05/25 13:46:40.000.260,F:\Projetos\MeuApp\Unit1.dfm=F:\Projetos\MeuApp\uPedidos.dfm</Transaction>
+    <Transaction>2019/05/27 22:10:46.000.899,F:\Projetos\MeuApp\uPedidos.pas=</Transaction>
+    <Transaction>2019/05/27 22:11:42.000.567,=F:\Projetos\MeuApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/27 22:13:42.000.644,F:\Projetos\MeuApp\uCadastroUsuarios.pas=F:\Projetos\MeuApp\Unit1.pas</Transaction>
+    <Transaction>2019/05/27 22:13:42.000.644,F:\Projetos\MeuApp\uCadastroUsuarios.dfm=F:\Projetos\MeuApp\Unit1.dfm</Transaction>
+    <Transaction>2019/05/27 23:02:52.000.727,F:\Projetos\MeuApp\uSplash.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="uBancoDados.pas"/>
+    <File Path="uBancoDados.dfm"/>
+    <File Path="uCadastroClientes.pas"/>
+    <File Path="uCadastroClientes.dfm"/>
+    <File Path="uCadastroProdutos.pas"/>
+    <File Path="uCadastroProdutos.dfm"/>
+    <File Path="uCalendario.pas"/>
+    <File Path="uCalendario.dfm"/>
+    <File Path="uPrincipal.pas"/>
+    <File Path="uPrincipal.dfm"/>
+    <File Path="uTabuadas.pas"/>
+    <File Path="uTabuadas.dfm"/>
+    <File Path="uTriangulo.pas"/>
+    <File Path="uTriangulo.dfm"/>
+    <File Path="uCadastroUsuarios.pas"/>
+    <File Path="uCadastroUsuarios.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
